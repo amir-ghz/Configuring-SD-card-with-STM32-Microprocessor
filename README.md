@@ -21,7 +21,4 @@ In this project, you can find all the necessary files to configure and program a
   ![alt text](https://raw.githubusercontent.com/amir-ghz/Configuring-SD-card-with-STM32-Microprocessor/main/help/SDpins.png)
 
   So, everything is set. All that misery just to write a simple string "Amir was HERE!!!" into memory once the current flows into our STM32 chip! STM32 microprocessors are very efficient and can serve to be exploited in a variety of applications in the IoT world.  
-## Authors
-
-- [@katherinepeterson](https://www.st.com/en/development-tools/stm32cubemx.html)
 
